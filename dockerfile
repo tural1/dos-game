@@ -1,4 +1,4 @@
-FROM ubuntu:20.1
+FROM ubuntu:20.10
 ENV USER=root
 ENV PASSWORD=password1
 ENV DEBIAN_FRONTEND=noninteractive 
